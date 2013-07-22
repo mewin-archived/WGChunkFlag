@@ -1,0 +1,8 @@
+name: WGChunkFlag
+main: de.mewin.wgchf.WGChunkFlagPlugin
+version: 0.1
+
+authors: [ mewin ]
+depend: [ WorldGuard, WGCustomFlags ]
+softdepend: [ WorldEdit ]
+authors: [ mewin ]
